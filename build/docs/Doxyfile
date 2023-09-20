@@ -1,0 +1,5 @@
+INPUT = "C:/Users/Timofey/Documents/Projects/breath_test/CatCutifier"
+#...
+OUTPUT_DIRECTORY = "C:/Users/Timofey/Documents/Projects/breath_test/build/docs/doxygen"
+
+GENERATE_XML = YES
